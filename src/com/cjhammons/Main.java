@@ -3,6 +3,7 @@ package com.cjhammons;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	    Hierarchical h = new Hierarchical();
+        h.hierarchical();
     }
 }
